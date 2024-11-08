@@ -13,7 +13,7 @@ To run the ReactQuizApp locally for practice, follow these steps:
 Clone the repository:
 
 bash
-git clone https://github.com/MarkoT25/ReactQuizApp.git
+git clone https://github.com/br-re/React-Quiz-App.git
 Navigate into the project directory:
 
 bash
